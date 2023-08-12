@@ -7,7 +7,7 @@ This is a solution to the Results summary component challenge from Frontend Ment
 
 ### Screenshot
 
-![screenshot](https://github.com/ltsyBitsy/fem-results-summary/blob/main/images/screenshot.jpg)
+![screenshot](https://github.com/ltsyBitsy/fem-results-summary/blob/main/assets/images/screenshot.jpg)
 
 ## Built with
 
