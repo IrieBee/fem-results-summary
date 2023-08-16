@@ -1,0 +1,28 @@
+:root {
+    --clr-red: hsl(0, 100%, 67%);
+    --clr-yellow: hsl(39, 100%, 56%);
+    --clr-teal: hsl(166, 100%, 37%);
+    --clr-blue: hsl(234, 85%, 45%);
+
+    --clr-bg-slate-blue: hsl(252, 100%, 67%);
+    --clr-bg-royal-blue: hsl(241, 81%, 54%);
+
+    --clr-circle-violet-blue: hsla(256, 72%, 46%, 1);
+    --clr-circle-persian-blue: hsla(241, 72%, 46%, 0);
+
+    --clr-neutral-white: hsl(0, 0%, 100%);
+    --clr-neutral-pale-blue: hsl(221, 100%, 96%);
+    --clr-neutral-light-lavender: hsl(241, 100%, 89%);
+    --clr-neutral-dark-grey-blue: hsl(224, 30%, 27%);
+
+    --fs-s: 0.65rem;
+    --fs-m: 1.125rem;
+    --fs-l: 1.75rem;
+
+    --ff: 'Hanken Grotesk', sans-serif;
+
+    --fw-s: 300;
+    --fw-m: 500;
+    --fw-l: 700;
+    --fw-xl: 800;
+}
