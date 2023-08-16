@@ -26,3 +26,8 @@
     --fw-l: 700;
     --fw-xl: 800;
 }
+
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+}
