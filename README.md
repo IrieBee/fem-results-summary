@@ -7,7 +7,7 @@ This is a solution to the Results summary component challenge from Frontend Ment
 
 ### Screenshot
 
-![screenshot](https://github.com/ltsyBitsy/fem-results-summary/blob/main/assets/images/screenshot.jpg)
+![screenshot](https://github.com/IrieBee/fem-results-summary/blob/main/assets/images/screenshot.jpg)
 
 ## Built with
 
@@ -21,8 +21,8 @@ This is a solution to the Results summary component challenge from Frontend Ment
 
 ## Links
 
-* Solution URL: https://github.com/ltsyBitsy/fem-results-summary
-* Live Site URL: https://ltsybitsy.github.io/fem-results-summary/
+* Solution URL: https://github.com/IrieBee/fem-results-summary
+* Live Site URL: https://IrieBee.github.io/fem-results-summary/
 
 ## Useful resources
 
